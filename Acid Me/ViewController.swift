@@ -8,7 +8,6 @@
 //
 
 import UIKit
-//Test coment
 ///
 /// ViewController handles the user interaction with the main view.
 ///
